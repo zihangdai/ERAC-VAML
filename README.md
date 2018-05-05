@@ -1,7 +1,7 @@
 # From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction
 
 This is the code we used in our paper
->[From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction](arxiv link)
+>[From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction](https://arxiv.org/abs/1804.10974)
 
 >Zihang Dai\*, Qizhe Xie\*, Eduard Hovy (*: equal contribution)
 
